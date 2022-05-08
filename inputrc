@@ -1,0 +1,78 @@
+"\\=": "×" # Sign/Multiply
+"\\-": "÷" # Reciprocal/Divide
+"\\+": "⋆" # Exponential/Power
+"\\_": "√" # Square root/Root
+"\\b": "⌊" # Floor/Minimum
+"\\B": "⌈" # Celing/Maximum
+"\\t": "∧" # Sort up/And
+"\\v": "∨" # Sort down/Or
+"\\~": "¬" # Not/Span
+"\\<": "≤" # Less than or equal to
+"\\>": "≥" # Greater than or equal to
+"\\/": "≠" # Length/Not equals
+"\\m": "≡" # Depth/Match
+"\\M": "≢" # Shape/Not match
+"\\{": "⊣" # Identity/Left
+"\\}": "⊢" # Identity/Right
+"\\z": "⥊" # Deshape/Reshape
+"\\,": "∾" # Join/Join to
+"\\.": "≍" # Solo/Couple
+"\\Z": "⋈" # Enlist/Pair
+"\\r": "↑" # Prefixes/Take
+"\\c": "↓" # Suffixes/Drop
+"\\d": "↕" # Range/Windows
+"\\H": "«" # Shift before
+"\\L": "»" # Shift after
+"\\q": "⌽" # Reverse/Rotate
+"\\a": "⍉" # Transpose/Reorder axis
+"\\T": "⍋" # Grade up/Bins up
+"\\V": "⍒" # Grade down/Bins down
+"\\i": "⊏" # First cell/Select
+"\\I": "⊑" # First/Pick
+"\\o": "⊐" # Classify/Index of
+"\\O": "⊒" # Occurrence count/Progressive index of
+"\\e": "∊" # Mark first/Member of
+"\\E": "⍷" # Deduplicate/Find
+"\\u": "⊔" # Group indices/Group
+"\\"": "˙" # Constant
+"\\`": "˜" # Self/Swap
+"\\j": "∘" # Atop
+"\\k": "○" # Over
+"\\h": "⊸" # Before/Bind
+"\\l": "⟜" # After/Bind
+"\\K": "⌾" # Under
+"\\%": "⊘" # Valences
+"\\$": "◶" # Choose
+"\\^": "⎊" # Catch
+"\\!": "⎉" # Rank
+"\\1": "˘" # Cells
+"\\@": "⚇" # Depth
+"\\2": "¨" # Each
+"\\4": "⌜" # Table
+"\\#": "⍟" # Repeat
+"\\3": "⁼" # Undo
+"\\5": "´" # Fold
+"\\6": "˝" # Insert
+"\\[": "←" # Define
+"\\?": "⇐" # Export
+"\\'": "↩" # Change
+"\\;": "⋄" # Separator
+"\\(": "⟨" # Begin list
+"\\)": "⟩" # End list
+"\\ ": "‿" # Strand
+"\\:": "·" # Nothing
+"\\0": "•" # System
+"\\w": "𝕨" # Left argument
+"\\W": "𝕎" # Left argument (as function)
+"\\x": "𝕩" # Right argument
+"\\X": "𝕏" # Right argument (as function)
+"\\f": "𝕗" # Modifier left operand
+"\\F": "𝔽" # Modifier left operand (as function)
+"\\g": "𝕘" # Modifier right operand
+"\\G": "𝔾" # Modifier right operand (as function)
+"\\s": "𝕤" # Current function (as subject)
+"\\S": "𝕊" # Current function
+"\\R": "𝕣" # Current modifier
+"\\9": "¯" # Minus
+"\\p": "π" # Pi
+"\\8": "∞" # Infinity
